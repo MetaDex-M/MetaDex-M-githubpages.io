@@ -21,7 +21,7 @@ We hope to create a smooth and valuable experience for all! Earn M, and other co
 2. Every day the yield % will go up by 1% for 15 days till we reached a 15X
 3. You have to stake BNB and M pair and commit it to the yield farm.
 4. Extra rewards will be handed out for stakeholders that stay the 15-day period.
-5. Token opening price is 0.025 cents.
+5. Token opening price is 0.01 cents.
 6. Total Supply for launch 160 000 M Tokens
 7. The Entire distribution system is in the Hands of the MasterChef contract.
 8. Once the eco system is established full control will be handed over to the Governance system.
