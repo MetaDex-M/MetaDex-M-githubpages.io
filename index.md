@@ -37,32 +37,31 @@ Personaly I have been in the space since 2017 If you head over to our twitter pa
 Binance made it truely possible to create a project like ours. Personally I suffered losses from yieldfarms and coins that pump and dump.
 We will do our best to control the flow and % so everyone feel they had a fair start.
 The opening hype causes hysteria and people cant buy quick enough and the price increases and increases untill the wales dump out. You are left out of pocket and holding for dear life hoping the project really goes somewhere.
+No More I say!! Starting the yield % increase from day 1 every day will give enought time for people to come into the system and prevent that "Buy the Top" senario.
 
 We are planning to build an entire brand behind the project. So atleat 1 big event will happen every month.
 Be part of the MetaVerse --- WE ARE M
 
+## Token Info
+- Build on BSC (Binance Smart Chain)
+- Web 3 (MetaMask and others)
+- Masterchef # 0xc087b7139437617D9668a59434b6F37E18caF865
+- M-Token # 0x09249606C0c139f0a69b467d886Fa1D0737D136c
+- Deflationary Opening supply 160K coins
+- Official site https://meta-dex.live
 
-# Header 1
-## Header 2
-### Header 3
+We will be working on our site with more info to come soon. Please feel free to connect with us on twitter or telegram.
+- Twitter https://twitter.com/dex_universe
+- Telagram https://t.me/+bbFLun9VQj0yN2E0
 
-- Bulleted
-- List
+## In summary for the launch
+1. Go to site https://meta-dex.live
+2. Add our token to your metamask (Go import tokens and past this address there ##  0x09249606C0c139f0a69b467d886Fa1D0737D136c in metamask)
+3. Get some (M) tokens on our Dex https://exchange.meta-dex.live//#/swap?inputCurrency=BNB&outputCurrency=0x09249606C0c139f0a69b467d886Fa1D0737D136c
+3. Stake some BNB with (M) https://exchange.meta-dex.live//#/add/ETH/0x09249606C0c139f0a69b467d886Fa1D0737D136c
+4. Head over to the yield farms and Stake your Max. The magic start...
+5. Follow us on twitter or Telegram
+6. We will see when you started staking and how long you kept your rewards in. (Airdrop will commence to get the final tokens out after 15 days)
+7. Remember to ajust your slippage slightly under your settings. So you dont loose out on orders you place when you buy.
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/MetaDex-M/MetaDex-M-githubpages.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
