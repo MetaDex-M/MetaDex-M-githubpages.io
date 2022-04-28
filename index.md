@@ -1,4 +1,4 @@
-### Welcome to Meta-(M)-DEX
+# Welcome to Meta-(M)-DEX
 
 ## Intro
 Meta (M) is a decentralized exchange running on Binance Smart Chain and Pancake swap, with lots of other features build in.
@@ -65,6 +65,6 @@ We will be working on our site with more info to come soon. Please feel free to 
 ## The magic start...
 - Follow us on twitter or Telegram
 We will see when you started staking and how long you kept your rewards in. (Airdrop will commence to get the final tokens out after 15 days)
-# Remember to adjust your slippage slightly under your settings. So you don’t lose out on orders you place when you buy.
+### Remember to adjust your slippage slightly under your settings. So you don’t lose out on orders you place when you buy.
 
-### WE ARE M....
+# WE ARE M....
