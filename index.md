@@ -1,24 +1,27 @@
-## Welcome to Meta-(M)-DEX
+### Welcome to Meta-(M)-DEX
 
-### Intro
+## Intro
 Meta (M) is a decentralized exchange running on Binance Smart Chain and Pancake swap exchange, with lots of other features that let you earn and win tokens.
 What we are doing is creating a perpetual deflation system, the (M) Token allows a constant price pump with a sufficient burn mechanism. We are not trying to replace the swap & exchange but to add value into the system and create a suitable and sustainable environment for people to yield farm with safe and high returns.
 
 
-### Features
+## Features
 Unique burning mechanism
 We are trying to create a strong burning mechanism that increases the token price constantly
 2% burn fee will be charged at staking once staking pools open
 We hope to create a smooth and valuable experience for all! Earn M, and other coins (to be determined) while staking.
-Security
+
+## Security
 Removed migrator code (inherited from Pancake swap)
 
-### Markdown
+## Launch Details
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+1. Starting 29 April 2022 we will open the sale of tokens on our Dex. 
+2. Every day the yield % will go up for 15 days till we reached a 15X
+3. You have to stake BNB and M pair and commit it to the yield farm.
+4. Extra rewards will be handed out for stakeholders that stay the 15 day period.
 
-```markdown
-Syntax highlighted code block
+
 
 # Header 1
 ## Header 2
