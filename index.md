@@ -17,7 +17,7 @@ We hope to create a smooth and valuable experience for all! Earn M, and other co
 
 ## Launch Details
 
-1. Starting 29 April 2022 we will open the sale of tokens on our Dex. 
+1. Starting 29 April 2022 we will open the sale of tokens on our Dex. (Or it may be open now go check)
 2. Every day the yield % will go up by 1% for 15 days till we reached a 15X
 3. You have to stake BNB and M pair and commit it to the yield farm.
 4. Extra rewards will be handed out for stakeholders that stay the 15-day period.
@@ -34,11 +34,11 @@ We have lots of plans like listing on major exchanges and so on but all that wil
 
 ## Why should you trust us.
 Personally I have been in the space since 2017. If you head over to our twitter page you will see it was launched some years back.
-Binance made it truly possible to create a project like ours. Personally I suffered losses from yield farms and coins that pump and dump.
+Binance made it truly possible to create a project like ours. Personally I suffered losses from yield farms and coins that pumped and dump.
 We will do our best to control the flow and % so everyone feel they had a fair start.
 
 The opening hype causes hysteria and people can’t buy quick enough and the price increases and increases until the wales dump out. You are left out of pocket and holding for dear life hoping the project really goes somewhere.
-No More I say!! Starting the yield % increase from day 1 every day will give enough time for people to come into the system and prevent that "Buy the Top" scenario.
+Starting the yield % increase from day 1 every day will give enough time for people to come into the system and prevent that "Buy the before dump" scenario.
 
 We are planning to build an entire brand behind the project. So at least 1 big event will happen every month.
 Be part of the MetaVerse --- WE ARE M
