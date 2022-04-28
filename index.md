@@ -59,10 +59,12 @@ We will be working on our site with more info to come soon. Please feel free to 
 1. Go to site <a href="https://meta-dex.live"> Click here </a>
 2. Add our token to your metamask <a href="https://cutt.ly/QF9ui0B"> Import M </a> ##  0x09249606C0c139f0a69b467d886Fa1D0737D136c in Metamask)
 3. Get some (M) tokens on our Dex <a href="https://exchange.meta-dex.live//#/swap?inputCurrency=BNB&outputCurrency=0x09249606C0c139f0a69b467d886Fa1D0737D136c"> Get (M) </a>
-3. Stake some BNB with (M) <a href="https://exchange.meta-dex.live//#/add/ETH/0x09249606C0c139f0a69b467d886Fa1D0737D136c"> Stake </a>
-4. Head over to the yield farms and Stake your Max. The magic start...
-5. Follow us on twitter or Telegram
-6. We will see when you started staking and how long you kept your rewards in. (Airdrop will commence to get the final tokens out after 15 days)
-7. Remember to adjust your slippage slightly under your settings. So you don’t lose out on orders you place when you buy.
+3. Add Liquidity (M) <a href="https://exchange.meta-dex.live//#/add/ETH/0x09249606C0c139f0a69b467d886Fa1D0737D136c"> Add Liquidity </a>
+4. Stake on the yieldfarm <a href="https://meta-dex.live/farms"> Stake </a>
+
+## The magic start...
+- Follow us on twitter or Telegram
+We will see when you started staking and how long you kept your rewards in. (Airdrop will commence to get the final tokens out after 15 days)
+# Remember to adjust your slippage slightly under your settings. So you don’t lose out on orders you place when you buy.
 
 ### WE ARE M....
