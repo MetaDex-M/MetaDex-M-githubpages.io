@@ -33,9 +33,10 @@ Listing solid projects on our platform easily for the entire industry to grow.
 We have lots of plans like listing on major exchanges and so on but all that will form part of our roadmap to come.
 
 ## Why should you trust us.
-Personally I have been in the space since 2017 If you head over to our twitter page you will see it was launched some years back.
+Personally I have been in the space since 2017. If you head over to our twitter page you will see it was launched some years back.
 Binance made it truly possible to create a project like ours. Personally I suffered losses from yield farms and coins that pump and dump.
 We will do our best to control the flow and % so everyone feel they had a fair start.
+
 The opening hype causes hysteria and people can’t buy quick enough and the price increases and increases until the wales dump out. You are left out of pocket and holding for dear life hoping the project really goes somewhere.
 No More I say!! Starting the yield % increase from day 1 every day will give enough time for people to come into the system and prevent that "Buy the Top" scenario.
 
