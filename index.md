@@ -61,7 +61,7 @@ We will be working on our site with more info to come soon. Please feel free to 
 3. Get some (M) tokens on our Dex <a href="https://exchange.meta-dex.live//#/swap?inputCurrency=BNB&outputCurrency=0x09249606C0c139f0a69b467d886Fa1D0737D136c"> Get (M) </a>
 3. Add Liquidity (M) <a href="https://exchange.meta-dex.live//#/add/ETH/0x09249606C0c139f0a69b467d886Fa1D0737D136c"> Add Liquidity </a>
 4. Stake on the yieldfarm <a href="https://meta-dex.live/farms"> Stake </a>
-5. We opend the BUSD pair as well. Same apply as above.
+5. We opened the BUSD pair as well. Same apply as above.
 
 ## The magic start...
 - Follow us on twitter or Telegram
