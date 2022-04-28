@@ -48,17 +48,17 @@ Be part of the MetaVerse --- WE ARE M
 - Masterchef # 0xc087b7139437617D9668a59434b6F37E18caF865
 - M-Token # 0x09249606C0c139f0a69b467d886Fa1D0737D136c
 - Deflationary Opening supply 160K coins
-- Official site https://meta-dex.live
+- Official site <a href="https://meta-dex.live"> Click here </a>
 
 We will be working on our site with more info to come soon. Please feel free to connect with us on twitter or telegram.
-- Twitter https://twitter.com/dex_universe
-- Telagram https://t.me/+bbFLun9VQj0yN2E0
+- Twitter <a href="https://twitter.com/dex_universe"> Click here </a>
+- Telagram <a href="https://t.me/+bbFLun9VQj0yN2E0"> Click here </a>
 
 ## In summary for the launch
-1. Go to site https://meta-dex.live
+1. Go to site <a href="https://meta-dex.live"> Click here </a>
 2. Add our token to your metamask (Go import tokens and past this address there ##  0x09249606C0c139f0a69b467d886Fa1D0737D136c in metamask)
-3. Get some (M) tokens on our Dex https://exchange.meta-dex.live//#/swap?inputCurrency=BNB&outputCurrency=0x09249606C0c139f0a69b467d886Fa1D0737D136c
-3. Stake some BNB with (M) https://exchange.meta-dex.live//#/add/ETH/0x09249606C0c139f0a69b467d886Fa1D0737D136c
+3. Get some (M) tokens on our Dex <a href="https://exchange.meta-dex.live//#/swap?inputCurrency=BNB&outputCurrency=0x09249606C0c139f0a69b467d886Fa1D0737D136c"> Get (M) </a>
+3. Stake some BNB with (M) <a href="https://exchange.meta-dex.live//#/add/ETH/0x09249606C0c139f0a69b467d886Fa1D0737D136c"> Stake </a>
 4. Head over to the yield farms and Stake your Max. The magic start...
 5. Follow us on twitter or Telegram
 6. We will see when you started staking and how long you kept your rewards in. (Airdrop will commence to get the final tokens out after 15 days)
